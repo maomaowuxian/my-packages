@@ -1,0 +1,12 @@
+
+config basic
+	option enable '1'
+
+config macbind
+	option enable '0'
+	option timeon '00:00'
+	option timeoff '23:59'
+	option macaddr '00:24:8C:69:48:3D'
+	option z1 '1'
+	option z2 '1'
+

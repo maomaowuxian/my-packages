@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/animefansxj/luci-app-smartinfo/!svn/ver/6/trunk/luci-dir/applications/luci-app-smartinfo/root/usr/lib/smartinfo
+END
+smart_status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/animefansxj/luci-app-smartinfo/!svn/ver/2/trunk/luci-dir/applications/luci-app-smartinfo/root/usr/lib/smartinfo/smart_status.sh
+END
+smart_checker.sh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/animefansxj/luci-app-smartinfo/!svn/ver/2/trunk/luci-dir/applications/luci-app-smartinfo/root/usr/lib/smartinfo/smart_checker.sh
+END
+smart_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/animefansxj/luci-app-smartinfo/!svn/ver/6/trunk/luci-dir/applications/luci-app-smartinfo/root/usr/lib/smartinfo/smart_functions.sh
+END

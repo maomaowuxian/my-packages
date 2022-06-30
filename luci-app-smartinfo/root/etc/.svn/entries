@@ -1,0 +1,34 @@
+10
+
+dir
+6
+https://github.com/animefansxj/luci-app-smartinfo/trunk/luci-dir/applications/luci-app-smartinfo/root/etc
+https://github.com/animefansxj/luci-app-smartinfo
+
+
+
+2016-02-14T14:49:44.000000Z
+2
+animefansxj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1a0b7bd7-c7ba-e42b-7705-ce57b7db7bff
+
+config
+dir
+
+init.d
+dir
+

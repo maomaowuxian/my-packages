@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/animefansxj/luci-app-smartinfo/!svn/ver/6/trunk/luci-dir/applications/luci-app-smartinfo/luasrc/view/smartinfo
+END
+smart_status.htm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/animefansxj/luci-app-smartinfo/!svn/ver/6/trunk/luci-dir/applications/luci-app-smartinfo/luasrc/view/smartinfo/smart_status.htm
+END
+detail_begin_flag.htm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/animefansxj/luci-app-smartinfo/!svn/ver/2/trunk/luci-dir/applications/luci-app-smartinfo/luasrc/view/smartinfo/detail_begin_flag.htm
+END
+detail_end_listvalue.htm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/animefansxj/luci-app-smartinfo/!svn/ver/2/trunk/luci-dir/applications/luci-app-smartinfo/luasrc/view/smartinfo/detail_end_listvalue.htm
+END
+detail_begin_value.htm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/animefansxj/luci-app-smartinfo/!svn/ver/2/trunk/luci-dir/applications/luci-app-smartinfo/luasrc/view/smartinfo/detail_begin_value.htm
+END
+detail_end_value.htm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/animefansxj/luci-app-smartinfo/!svn/ver/2/trunk/luci-dir/applications/luci-app-smartinfo/luasrc/view/smartinfo/detail_end_value.htm
+END

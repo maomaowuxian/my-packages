@@ -1,0 +1,24 @@
+Author: Daniel Baumann <daniel.baumann@progress-technologies.net>
+Description: Correcting formating of to be replaced options in manpage.
+
+diff -Naurp memtester.orig//memtester.8 memtester/memtester.8
+--- memtester.orig//memtester.8	2012-10-30 10:26:23.077043311 +0100
++++ memtester/memtester.8	2012-10-30 10:44:49.384541719 +0100
+@@ -3,7 +3,7 @@
+ memtester \- stress test to find memory subsystem faults.
+ .SH SYNOPSIS
+ .B memtester
+-[\f -p PHYSADDR\fR [\f -d DEVICE\fR]]
++[\-p \fIPHYSADDR\fR [\-d \fIDEVICE\fR]]
+ <\fIMEMORY\fR>
+ [\fIITERATIONS\fR]
+ .SH DESCRIPTION
+@@ -45,7 +45,7 @@ So choose wisely.
+ .PP
+ .SH OPTIONS
+ .TP
+-\f -p PHYSADDR\fR
++\-p \fIPHYSADDR\fR
+ tells memtester to test a specific region of memory starting at physical 
+ address PHYSADDR (given in hex), by mmap(2)ing a device specified by the
+ -d option (below, or /dev/mem by default).  This is mostly of use to hardware 
