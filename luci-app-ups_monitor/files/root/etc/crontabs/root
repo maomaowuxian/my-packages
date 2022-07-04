@@ -1,0 +1,1 @@
+*/5 * * * * /etc/ups/check_ups.sh check

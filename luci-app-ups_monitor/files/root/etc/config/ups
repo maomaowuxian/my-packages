@@ -1,0 +1,4 @@
+
+config ups
+	option enable '0'
+
